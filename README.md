@@ -48,8 +48,7 @@ npm install express
     id: "string",
     username: "string",
     password: "string",
-    preferences: { categories: [Array], sources: [Array] },
-    // "createdAt": Date.now() // a.k.a Unix epoch // TODO
+    preferences: { categories: [Array], sources: [Array] }
   },
 ];
 ```
